@@ -9,6 +9,8 @@ services:
       - "5432:5432"
     volumes:
       - db_data:/var/lib/postgresql/data
+      - ./db/init_ventas.sql:/docker-entrypoint-initdb.d/init_ventas.sql
+      - ./db/ventas.csv:/docker-entrypoint-initdb.d/ventas.csv
 
   app:
     build: .
@@ -16,6 +18,7 @@ services:
       - .:/app
     ports:
       - "8501:8501"
+
     depends_on:
       - db
     env_file:
