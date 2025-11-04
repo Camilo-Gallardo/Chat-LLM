@@ -1,0 +1,41 @@
+"id","vendedor","sede","producto","cantidad","precio","fecha"
+1,Juan Pérez,Bogotá,Laptop Lenovo,3,2500.00,2025-09-15
+2,Ana García,Medellín,Mouse Logitech,10,25.50,2025-09-16
+3,Carlos Ruiz,Bogotá,Monitor Samsung,2,1200.00,2025-09-17
+4,Laura Martínez,Cali,Teclado Redragon,5,45.00,2025-09-18
+5,Pedro Torres,Medellín,Disco Duro SSD,4,350.00,2025-09-19
+6,Marta López,Cali,Impresora HP,1,600.00,2025-09-20
+7,Julián Gómez,Bogotá,Router TP-Link,7,80.00,2025-09-20
+8,Sandra Díaz,Medellín,Tablet Samsung,2,900.00,2025-09-21
+9,Andrés Ramírez,Cali,Auriculares JBL,6,75.00,2025-09-21
+10,Diana Torres,Bogotá,Webcam Logitech,3,150.00,2025-09-22
+11,Lucía Herrera,Bogotá,Laptop HP,2,2700.00,2025-09-01
+12,Daniel Rojas,Cali,Mouse Genius,15,18.00,2025-09-02
+13,Paula Gómez,Medellín,Monitor LG,3,1100.00,2025-09-03
+14,Felipe Vargas,Bogotá,Teclado Logitech,6,50.00,2025-09-04
+15,Tatiana López,Cali,Disco Externo Seagate,2,420.00,2025-09-05
+16,Camilo Jiménez,Medellín,Impresora Epson,1,650.00,2025-09-05
+17,Valentina Romero,Bogotá,Router Huawei,5,95.00,2025-09-06
+18,Luis Silva,Cali,Tablet Apple,1,1300.00,2025-09-06
+19,Manuela Díaz,Medellín,Auriculares Sony,4,88.00,2025-09-07
+20,Jorge Peña,Bogotá,Webcam Microsoft,2,140.00,2025-09-07
+21,Sofía Morales,Cali,Laptop Dell,1,2800.00,2025-09-08
+22,Andrés Castro,Medellín,Mouse Razer,8,60.00,2025-09-08
+23,Nicole Torres,Bogotá,Monitor ASUS,2,1250.00,2025-09-09
+24,Sebastián Cárdenas,Cali,Teclado Corsair,3,75.00,2025-09-10
+25,Vanessa Muñoz,Medellín,SSD Kingston,6,370.00,2025-09-11
+26,Esteban Suárez,Bogotá,Impresora Brother,1,620.00,2025-09-11
+27,Natalia Parra,Cali,Router D-Link,3,85.00,2025-09-12
+28,Ricardo Mejía,Medellín,Tablet Lenovo,2,950.00,2025-09-12
+29,Karen Sánchez,Bogotá,Auriculares Beats,2,180.00,2025-09-13
+30,Mauricio León,Cali,Webcam Razer,1,160.00,2025-09-13
+31,Johana Pérez,Medellín,Laptop Acer,2,2600.00,2025-09-14
+32,Carlos Duarte,Bogotá,Mouse inalámbrico Logitech,10,40.00,2025-09-14
+33,Andrea Ruiz,Cali,Monitor ViewSonic,2,980.00,2025-09-15
+34,Diego Navarro,Medellín,Teclado mecánico Redragon,5,70.00,2025-09-16
+35,Liliana Torres,Bogotá,SSD Samsung,3,390.00,2025-09-16
+36,Tomás Andrade,Cali,Impresora Canon,1,590.00,2025-09-17
+37,Luisa Mendoza,Medellín,Router Mikrotik,2,110.00,2025-09-18
+38,Oscar Prieto,Bogotá,Tablet Huawei,3,890.00,2025-09-18
+39,Daniela Castaño,Cali,Auriculares HyperX,4,100.00,2025-09-19
+40,Álvaro Salazar,Medellín,Webcam Logitech 4K,1,220.00,2025-09-20
